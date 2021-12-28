@@ -1,0 +1,620 @@
+[
+  {
+    "id": 1,
+    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 109.95,
+    "discount":2,
+    "discountPrice":107.75,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "rating": { "rate": 3.9, "count": 120 }
+  },
+  {
+    "id": 2,
+    "title": "Mens Casual Premium Slim Fit T-Shirts ",
+    "price": 22.3,
+    "discount":3,
+    "discountPrice":21.63,
+    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+    "rating": { "rate": 4.1, "count": 259 }
+  },
+  {
+    "id": 3,
+    "title": "Mens Cotton Jacket",
+    "price": 55.99,
+    "discount":5,
+    "discountPrice":53.15,
+    "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "rating": { "rate": 4.7, "count": 500 }
+  },
+  {
+    "id": 4,
+    "title": "Mens Casual Slim Fit",
+    "price": 15.99,
+    "discount":2,
+    "discountPrice":15.67,
+    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "rating": { "rate": 2.1, "count": 430 }
+  },
+  {
+    "id": 5,
+    "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "price": 695,
+    "discount":50,
+    "discountPrice":347.50,
+    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+    "rating": { "rate": 4.6, "count": 400 }
+  },
+  {
+    "id": 6,
+    "title": "Solid Gold Petite Micropave ",
+    "price": 168,
+    "discount":30,
+    "discountPrice":117.60,
+    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+    "rating": { "rate": 3.9, "count": 70 }
+  },
+  {
+    "id": 7,
+    "title": "White Gold Plated Princess",
+    "price": 9.99,
+    "discount":52,
+    "discountPrice":4.80,
+    "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+    "rating": { "rate": 3, "count": 400 }
+  },
+  {
+    "id": 8,
+    "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+    "price": 10.99,
+    "discount":52,
+    "discountPrice":5.28,
+    "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+    "rating": { "rate": 1.9, "count": 100 }
+  },
+  {
+    "id": 9,
+    "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+    "price": 64,
+    "discount":22,
+    "discountPrice":49.92,
+    "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+    "rating": { "rate": 3.3, "count": 203 }
+  },
+  {
+    "id": 10,
+    "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+    "price": 109,
+    "discount":10,
+    "discountPrice":98.10,
+    "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+    "rating": { "rate": 2.9, "count": 470 }
+  },
+  {
+    "id": 11,
+    "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+    "price": 109,
+    "discount":10,
+    "discountPrice":98.10,
+    "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+    "rating": { "rate": 4.8, "count": 319 }
+  },
+  {
+    "id": 12,
+    "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+    "price": 114,
+    "discount":10,
+    "discountPrice":102.60,
+    "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+    "rating": { "rate": 4.8, "count": 400 }
+  },
+  {
+    "id": 13,
+    "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+    "price": 599,
+    "discount":20,
+    "discountPrice":479.20,
+    "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+    "rating": { "rate": 2.9, "count": 250 }
+  },
+  {
+    "id": 14,
+    "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+    "price": 999.99,
+    "discount":50,
+    "discountPrice":500.00,
+    "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+    "rating": { "rate": 2.2, "count": 140 }
+  },
+  {
+    "id": 15,
+    "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+    "price": 56.99,
+    "discount":10,
+    "discountPrice":51.29,
+    "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+    "rating": { "rate": 2.6, "count": 235 }
+  },
+  {
+    "id": 16,
+    "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+    "price": 29.95,
+    "discount":30,
+    "discountPrice":20.97,
+    "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+    "rating": { "rate": 2.9, "count": 340 }
+  },
+  {
+    "id": 17,
+    "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+    "price": 39.99,
+    "discount":30,
+    "discountPrice":23.79,
+    "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+    "rating": { "rate": 3.8, "count": 679 }
+  },
+  {
+    "id": 18,
+    "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+    "price": 9.85,
+    "discount":30,
+    "discountPrice":6.90,
+    "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+    "rating": { "rate": 4.7, "count": 130 }
+  },
+  {
+    "id": 19,
+    "title": "Opna Women's Short Sleeve Moisture",
+    "price": 7.95,
+    "discount":30,
+    "discountPrice":5.57,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+    "rating": { "rate": 4.5, "count": 146 }
+  },
+  {
+    "id": 20,
+    "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+    "price": 12.99,
+    "discount":30,
+    "discountPrice":9.07,
+    "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+    "rating": { "rate": 3.6, "count": 145 }
+  },
+   {
+    "id":21,
+    "title":"Mens Red T-shirt",
+    "price":5,
+    "discount":10,
+    "discountPrice":4.50,
+    "description":"Men,s comfortable t-shirt for summer.",
+    "category":"men's clothing",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640623274/Red_tshirt-1_v1bhvl.jpg",
+    "rating": { "rate": 4.2, "count": 145 }
+  },
+   {
+    "id":22,
+    "title":"Mens full-sleeve T-shirt",
+    "price":5,
+    "discount":10,
+    "discountPrice":4.50,
+    "description":"Men,s comfortable t-shirt for Winter.",
+    "category":"men's clothing",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640623228/ca74451f35a640d6bc3d6eff3cdfaf25_a92vf0.jpg",
+    "rating": { "rate": 4.2, "count": 145 }
+  },
+   {
+    "id":23,
+    "title":"Mens full-sleeve T-shirt",
+    "price":5,
+    "discount":10,
+    "discountPrice":4.50,
+    "description":"Men,s comfortable t-shirt for Winter.",
+    "category":"men's clothing",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640623217/3543816c8a13bd0edb3992baa89507b0_oyg8pu.jpg",
+    "rating": { "rate": 4.2, "count": 145 }
+  },
+   {
+    "id":24,
+    "title":"Mens jacket",
+    "price":15,
+    "discount":10,
+    "discountPrice":13.50,
+    "description":"Men,s Stylish jacket for Winter.",
+    "category":"men's clothing",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640623206/shirt_b1cirr.webp",
+    "rating": { "rate": 4.2, "count": 145 }
+  },
+ 
+   {
+    "id":25,
+    "title":"Mens 3-quater Pant",
+    "price":8,
+    "discount":5,
+    "discountPrice":7.60,
+    "description":"Men,s Stylish 3-quater for summer.",
+    "category":"men's clothing",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640623201/mens-3quater_xtedba.jpg",
+    "rating": { "rate": 3.9, "count": 145 }
+  },
+   {
+    "id":26,
+    "title":"Mens trouser Pant",
+    "price":10,
+    "discount":50,
+    "discountPrice":5.00,
+    "description":"Men,s Stylish trouser pants for comfortable and slim fit.",
+    "category":"men's clothing",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640623197/e291cfb2ef84360f577794d7f2f64766_qtwavz.jpg",
+    "rating": { "rate": 4.2, "count": 145 }
+  },
+ 
+   {
+    "id":27,
+    "title":"Mens T-shirt",
+    "price":4,
+    "discount":5,
+    "discountPrice":3.80,
+    "description":"Men,s Stylish T-shirts for comfortable and slim fit.",
+    "category":"men's clothing",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640623197/red_tshirt_xvcrgb.jpg",
+    "rating": { "rate": 3, "count": 145 }
+  },
+ 
+   {
+    "id":28,
+    "title":"Mens T-shirt",
+    "price":10,
+    "discount":5,
+    "discountPrice":9.50,
+    "description":"Men,s Stylish T-shirts for comfortable and slim fit.",
+    "category":"men's clothing",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640623194/black_tshirt_riwhcc.jpg",
+    "rating": { "rate": 3.2, "count": 145 }
+  },
+   {
+    "id":29,
+    "title":"Mens T-shirt",
+    "price":18,
+    "discount":9,
+    "discountPrice":16.38,
+    "description":"Men,s Stylish T-shirts for comfortable and slim fit.",
+    "category":"men's clothing",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640623193/Navyblue_t-shirt_yoygae.jpg",
+    "rating": { "rate": 5, "count": 145 }
+  },
+   {
+    "id":30,
+    "title":"Mens full-slevee T-shirt",
+    "price":22,
+    "discount":5,
+    "discountPrice":20.90,
+    "description":"Men,s Stylish full-slevee T-shirts for comfortable and slim fit.",
+    "category":"men's clothing",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640623188/e9d5c45f0df3a344593c49acc125909d_rbf8tf.png",
+    "rating": { "rate": 4, "count": 145 }
+  },
+ 
+   {
+    "id":31,
+    "title":"Mens Blue full-slevee shirt",
+    "price":30,
+    "discount":25,
+    "discountPrice":22.50,
+    "description":"Men,s Stylish Blue full-slevee shirt for comfortable and slim fit.",
+    "category":"men's clothing",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640623150/d533eb1b90c749182eb86e9af749d240.jpg_200x200q80-product.jpg__u6c2yv.webp",
+    "rating": { "rate": 4.7, "count": 145 }
+  },
+   {
+    "id":32,
+    "title":"Mens Trouser Pant",
+    "price":16,
+    "discount":5,
+    "discountPrice":12.00,
+    "description":"Men,s Stylish Mens Trouser Pant for comfortable and slim fit.",
+    "category":"men's clothing",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640623148/160d75f7780118bd6eee8ed94ccd4ea2_a1nx7k.jpg",
+    "rating": { "rate": 3.5, "count": 145 }
+  },
+  
+   {
+    "id":33,
+    "title":"Mens T-shirt",
+    "price":12,
+    "discount":5,
+    "discountPrice":9.00,
+    "description":"Men,s Stylish T-shirts for comfortable and slim fit.",
+    "category":"men's clothing",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640623150/bc5b43a5f72c85e58df22a3f46b49d8c_hfxfht.jpg",
+    "rating": { "rate": 3.7, "count": 145 }
+  },
+   {
+    "id":34,
+    "title":"Mens Check Trouser",
+    "price":10,
+    "discount":5,
+    "discountPrice":9.50,
+    "description":"Men,s Stylish Check Trouser for comfortable and slim fit.",
+    "category":"men's clothing",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640623171/a5ca102533926559164173e61f817b85_nqmjvz.jpg",
+    "rating": { "rate": 3.2, "count": 145 }
+  },
+   {
+    "id":34,
+    "title":"Mens sunglasses",
+    "price":50,
+    "discount":35,
+    "discountPrice":32.50,
+    "description":"Men,s Stylish sunglasses.Protecting eye form uv rays.Its looks stylish.",
+    "category":"sunglasses",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640623214/8f261dce970a13cdd810d1f38dff7a9d_ve4zro.jpg",
+    "rating": { "rate": 3.2, "count": 145 }
+  },
+   {
+    "id":36,
+    "title":"Mens Unique sunglasses",
+    "price":17,
+    "discount":5,
+    "discountPrice":16.15,
+    "description":"Men,s Stylish sunglasses.Protecting eye form uv rays.Its looks stylish.",
+    "category":"sunglasses",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640623207/Mens_black_ftj64f.jpg",
+    "rating": { "rate": 4.2, "count": 145 }
+  },
+   {
+    "id":37,
+    "title":"Mens vintage sunglasses",
+    "price":10,
+    "discount":5,
+    "discountPrice":9.50,
+    "description":"Men,s Stylish sunglasses.Protecting eye form uv rays.Its looks stylish.",
+    "category":"sunglasses",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640623184/d774ea3efb29c09c40ffaaaa56410863_dbidil.jpg",
+    "rating": { "rate": 4.8, "count": 145 }
+  },
+   {
+    "id":38,
+    "title":"Ray-ban sunglasses",
+    "price":10,
+    "discount":5,
+    "discountPrice":9.50,
+    "description":"Men,s Stylish sunglasses.Protecting eye form uv rays.Its looks stylish.",
+    "category":"sunglasses",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640623182/e8de5b7db68f3a7551351eab46139336_qwjqie.jpg",
+    "rating": { "rate": 3.2, "count": 145 }
+  },  {
+    "id":39,
+    "title":"Ray-ban sunglasses",
+    "price":10,
+    "discount":5,
+    "discountPrice":9.50,
+    "description":"Men,s Stylish sunglasses.Protecting eye form uv rays.Its looks stylish.",
+    "category":"sunglasses",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640623148/a0577e1aac161f7e645e96abd11d1bf7_igu6dn.jpg",
+    "rating": { "rate": 3.2, "count": 145 }
+  },
+   {
+    "id":40,
+    "title":"Traingle sunglasses",
+    "price":19,
+    "discount":5,
+    "discountPrice":18.05,
+    "description":"Men,s Stylish sunglasses.Protecting eye form uv rays.Its looks stylish.",
+    "category":"sunglasses",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640623149/b13570f9527c222a121571dd0096955d_xfevlb.jpg",
+    "rating": { "rate": 3.9, "count": 145 }
+  },
+ 
+   {
+    "id":41,
+    "title":"Realme 8 - 8 + 128 Gb",
+    "price":219,
+    "discount":"0",
+    "discountPrice":219,
+    "description":"Realme 8 - 8 + 128 Gb.",
+    "category":"mobile",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640684669/00927ec768259c402691a75ea1eb1349_jn3b5v.jpg",
+    "rating": { "rate": 4.9, "count": 145 }
+  },
+   {
+    "id":42,
+    "title":"realme C25Y - (4GB Ram /64GB Rom)",
+    "price":200,
+    "discount":"0",
+    "discountPrice":200,
+    "description":"realme C25Y - (4GB Ram /64GB Rom)",
+    "category":"mobile",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640684670/ed062f0bed4af95867f09920ad7ea81f_t8ujpu.png",
+    "rating": { "rate": 4.9, "count": 145 }
+  },
+   {
+    "id":43,
+    "title":"Realme C25S - 4Gb / 128Gb 6000Mah Battery",
+    "price":300,
+    "discount":"0",
+    "discountPrice":300,
+    "description":"Realme C25S - 4Gb / 128Gb 6000Mah Battery",
+    "category":"mobile",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640684670/e7453118f4e9ec53a13a1702fd986bb5_y82d7d.jpg",
+    "rating": { "rate": 4.9, "count": 145 }
+  },
+ 
+   {
+    "id":44,
+    "title":"realme C21Y - 4GB RAM / 64GB ROM",
+    "price":300,
+    "discount":"0",
+    "discountPrice":300,
+    "description":"realme C21Y - 4GB RAM / 64GB ROM",
+    "category":"mobile",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640684670/6d7f3141163261f1028c10430c5acc59_uvpwgt.jpg",
+    "rating": { "rate": 4.9, "count": 145 }
+  },
+ 
+   {
+    "id":45,
+    "title":"iPhone 13 mini 256GB",
+    "price":1120,
+    "discount":"0",
+    "discountPrice":1120,
+    "description":"iPhone 13 mini 256GB",
+    "category":"mobile",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640684670/6ffddcb05af2049e7ef2bca7f1991160_xsmmcb.jpg",
+    "rating": { "rate": 4.9, "count": 145 }
+  },
+ 
+   {
+    "id":46,
+    "title":"Samsung Galaxy M02 2/32 GB",
+    "price":420,
+    "discount":"0",
+    "discountPrice":420,
+    "description":"Samsung Galaxy M02 2/32 GB",
+    "category":"mobile",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640684669/5b5b0f1bb0f546580190bc71a12c7915_byykgd.png",
+    "rating": { "rate": 4.9, "count": 145 }
+  }
+ 
+  ,
+ 
+   {
+    "id":47,
+    "title":"iPhone 12 Pro 256GB",
+    "price":1100,
+    "discount":"0",
+    "discountPrice":1100,
+    "description":"iPhone 12 Pro 256GB",
+    "category":"mobile",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640684671/a5f731afbb64b37950565866c7f3af64_s2vq8w.jpg",
+    "rating": { "rate": 4.9, "count": 145 }
+  },
+ 
+   {
+    "id":48,
+    "title":"KM-9020 Rechargable Hair Clipper Trimmer",
+    "price":60,
+    "discount":"0",
+    "discountPrice":60,
+    "description":"Kemei deals with different types of electric rechargeable shavers, trimmers, cutter, hair straighteners, different accessories include Micro-Groomer attachments and many more those are ideal for men and women around the globe. Kemei uses the highest quality materials to ensure the users never have to worry about painful grooming experience. Kemei is continuously bringing quality products for the people with high standard besides much variations to allow people to keep on budget as well.",
+    "category":"trimmer",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640686047/e02e67f538d9c0650b0f17a2950dfbc3_gwrxaw.jpg",
+    "rating": { "rate": 4.9, "count": 145 }
+  },
+   {
+    "id":49,
+    "title":"Kemei KM-600 Beard Trimmer Combo - Black",
+    "price":160,
+    "discount":"0",
+    "discountPrice":160,
+    "description":"Kemei deals with different types of electric rechargeable shavers, trimmers, cutter, hair straighteners, different accessories include Micro-Groomer attachments and many more those are ideal for men and women around the globe. Kemei uses the highest quality materials to ensure the users never have to worry about painful grooming experience. Kemei is continuously bringing quality products for the people with high standard besides much variations to allow people to keep on budget as well.",
+    "category":"trimmer",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640686044/b07d7817587068683d41f9a10aece8f3_rhdfuz.jpg",
+    "rating": { "rate": 4.9, "count": 145 }
+  },
+ 
+   {
+    "id":51,
+    "title":"KM-9020 Rechargable Hair Clipper Trimmer",
+    "price":60,
+    "discount":"0",
+    "discountPrice":60,
+    "description":"Kemei deals with different types of electric rechargeable shavers, trimmers, cutter, hair straighteners, different accessories include Micro-Groomer attachments and many more those are ideal for men and women around the globe. Kemei uses the highest quality materials to ensure the users never have to worry about painful grooming experience. Kemei is continuously bringing quality products for the people with high standard besides much variations to allow people to keep on budget as well.",
+    "category":"trimmer",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640686043/8e37d39697dad18be6301dcbde3a5039_wt42zy.jpg",
+    "rating": { "rate": 4.9, "count": 145 }
+  }
+  
+  ,
+   {
+    "id":52,
+    "title":"Hair Straightener KM-329 - Black",
+    "price":70,
+    "discount":"0",
+    "discountPrice":70,
+    "description":"Kemei deals with different types of electric rechargeable shavers, trimmers, cutter, hair straighteners, different accessories include Micro-Groomer attachments and many more those are ideal for men and women around the globe. Kemei uses the highest quality materials to ensure the users never have to worry about painful grooming experience. Kemei is continuously bringing quality products for the people with high standard besides much variations to allow people to keep on budget as well.",
+    "category":"trimmer",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640686042/a4037a0ad29696dc662ca7134ce59d95_jisn5x.jpg",
+    "rating": { "rate": 4.9, "count": 145 }
+  }
+ 
+  ,
+   {
+    "id":53,
+    "title":"Kemei KM-9020 Exclusive Rechargeable Hair Clipper & Trimmer - White & Silver",
+    "price":40,
+    "discount":"0",
+    "discountPrice":40,
+    "description":"Kemei deals with different types of electric rechargeable shavers, trimmers, cutter, hair straighteners, different accessories include Micro-Groomer attachments and many more those are ideal for men and women around the globe. Kemei uses the highest quality materials to ensure the users never have to worry about painful grooming experience. Kemei is continuously bringing quality products for the people with high standard besides much variations to allow people to keep on budget as well.",
+    "category":"trimmer",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640686042/763f3dbec91d04021b8b0828e7bc418a_of7asl.jpg",
+    "rating": { "rate": 4.9, "count": 145 }
+  }
+ 
+  ,
+   {
+    "id":54,
+    "title":"Beard Growth Solution Oil for Men - 30Ml",
+    "price":40,
+    "discount":"0",
+    "discountPrice":40,
+    "description":"Beard Growth Solution Oil for Men - 30Ml",
+    "category":"trimmer",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640686041/118d86a059036dcb94d15fb72ac2fb61_vlyovi.jpg",
+    "rating": { "rate": 4.9, "count": 145 }
+  }
+  ,
+   {
+    "id":55,
+    "title":"Kemmie Rechargeable Trimmer.",
+    "price":40,
+    "discount":"0",
+    "discountPrice":40,
+    "description":"Kemmie Rechargeable Trimmer.4 hours battery backup,nice and handdy products",
+    "category":"trimmer",
+    "image":"https://res.cloudinary.com/drdrszyfs/image/upload/v1640623176/f8bfc266f86b3f2304049c87f41596f4_jdo7ma.jpg",
+    "rating": { "rate": 4.9, "count": 145 }
+  }
+ 
+
+ 
+
+]

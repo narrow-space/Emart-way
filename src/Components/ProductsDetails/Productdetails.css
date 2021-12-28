@@ -1,0 +1,27 @@
+.dec_in_quantity{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.dec,
+.inc,
+.quantity{
+    width: 40px;
+    height: 40px;
+    border: 1px solid rgb(131, 130, 130);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+
+}
+.quantity{
+    border-left:none ;
+    border-right: none;
+}
+.btn{
+    background-color: #FFA500;
+    border:none;
+    outline: black;
+    color:black;
+}

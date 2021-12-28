@@ -1,0 +1,9 @@
+.card{
+    border: none;
+    height: 90%;
+    transition: 0.3s ease;
+   
+}
+.card:hover{
+    box-shadow:0 3px 10px rgb(0 0 0 / 0.2);
+}
