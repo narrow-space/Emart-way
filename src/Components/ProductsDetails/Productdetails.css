@@ -19,9 +19,19 @@
     border-left:none ;
     border-right: none;
 }
-.btn{
+.btn1{ 
     background-color: #FFA500;
     border:none;
-    outline: black;
-    color:black;
+    outline:none;
+    color:white;
+    padding: 8px;
+    border-radius: 5px;
+}
+.btn2{ 
+    background-color: #26ABD4;
+    border:none;
+    outline:none;
+    color:white;
+    padding: 8px;
+    border-radius: 5px;
 }

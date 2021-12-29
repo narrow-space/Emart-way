@@ -6,12 +6,17 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import Cart from './Components/Cart/Cart';
 import Home from './Components/Home/Home';
 import Productdetails from './Components/ProductsDetails/Productdetails';
+import Login from './Components/Login/Login';
+import Register from './Components/Register/Register';
+import AuthProvider from './Components/Contexts/Authprovider/AuthProvider';
+import PrivateRoute from './Components/Login/PrivateRoute/PrivateRoute';
 
 
 
 function App() {
   return (
     <div className="App">
+      <AuthProvider>
       <Router >
    
         <Nav></Nav>
@@ -23,22 +28,29 @@ function App() {
           <Route exact path="/home">
             <Home></Home>
           </Route>
-          {/* <Route  path="/products">
-            <Products></Products>
-          </Route> */}
-            
+           
 
-          <Route exact  path="/product/:productid">
+          <PrivateRoute   path="/product/:productid">
             <Productdetails></Productdetails>
-          </Route>
+          </PrivateRoute>
 
 
-          <Route exact  path='/cart'>
+          <PrivateRoute  path='/cart'>
+         
             <Cart></Cart>
+          
+          </PrivateRoute>
+
+          <Route exact  path='/login'>
+            <Login></Login>
+          </Route>
+          <Route exact  path='/register'>
+            <Register></Register>
           </Route>
         </Switch>
        
       </Router>
+      </AuthProvider>
 
     </div>
   );

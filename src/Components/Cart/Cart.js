@@ -72,7 +72,7 @@ const Cart = () => {
                     </div>
                     <div className="col-md-2 d-flex justify-content-center align-items-center">
                         <div className="car_remove item-padding">
-                         <span style={{color:"#FFA500"}} className="fs-3" onClick={()=> dispatch({type:"REMOVE",payload:pd.id})} > <AiFillDelete/></span>
+                         <span style={{color:"#D2621E"}} className="fs-3" onClick={()=> dispatch({type:"REMOVE",payload:pd.id})} > <AiFillDelete className="delet-bask"/></span>
                         </div>
                     </div>
                   </div>
@@ -106,7 +106,9 @@ const Cart = () => {
                     </div>
                    
                   </div>
-                  <button className="checkout-btn">Checkout</button>
+                 <div className="btncheck">
+                 <button className="checkout-btn">Checkout</button>
+                 </div>
                 </div>
               </div>
               </div>

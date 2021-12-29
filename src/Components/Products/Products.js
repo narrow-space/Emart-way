@@ -8,6 +8,7 @@ import { MdProductionQuantityLimits } from "react-icons/md";
 import { GiClothes } from "react-icons/gi";
 import { ImWoman, ImPushpin, ImMobile } from "react-icons/im";
 import { IoMdGlasses } from "react-icons/io";
+import { GiElectric } from "react-icons/gi";
 const Products = () => {
   const { products } = useSelector((state) => state.ProductsReducer);
   console.log(products);
@@ -117,6 +118,17 @@ const Products = () => {
                   <GiClothes className="text-center" />
                 </div>
               </div>
+
+              <div onClick={() => filterProducts("mobile")} className="category d-flex justify-content-evenly align-item-center">
+                <div>
+                  <p className="me-3">
+                 Mobile
+                  </p>
+                </div>
+                <div className="text-center">
+                  <ImMobile />
+                </div>
+              </div>
             </div>
             <div class="col-md-auto">
               <div onClick={() => filterProducts("women's clothing")} className="category d-flex justify-content-evenly ">
@@ -142,6 +154,18 @@ const Products = () => {
                   <ImPushpin />
                 </div>
               </div>
+
+              <div onClick={() => filterProducts("trimmer")} className="category d-flex justify-content-evenly align-item-center">
+                <div>
+                  <p className="me-3">
+                   Hair trimmer
+                  </p>
+                </div>
+                <div className="text-center">
+                  <GiElectric />
+                </div>
+              </div>
+
             </div>
             <div class="col col-lg-2">
               <div onClick={() => filterProducts("electronics")} className="category d-flex justify-content-evenly align-item-center">
@@ -166,6 +190,19 @@ const Products = () => {
               </div>
               
             </div>
+            
+          </div>
+        </div>
+
+        {/* <div className="container">
+          <div className="row ">
+            <div className="col-md-4 category">
+              
+               
+
+
+
+
             <div class="col col-lg-2">
               <div onClick={() => filterProducts("mobile")} className="category d-flex justify-content-evenly align-item-center">
                 <div>
@@ -184,18 +221,17 @@ const Products = () => {
                   </p>
                 </div>
                 <div className="text-center">
-                  <IoMdGlasses />
+                  <GiElectric />
                 </div>
               </div>
               
             </div>
-          </div>
-        </div>
 
-        {/* <div className="container">
-          <div className="row ">
-            <div className="col-md-4 category">
-              
+
+
+
+
+
 
             </div>
             <div className="col-md-4 category">

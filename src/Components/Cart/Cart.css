@@ -14,16 +14,39 @@
 }
 .summery_details {
   box-sizing: border-box;
-  background-color: silver;
+  
   color: black;
 
   padding: 15px;
 }
+
+.delet-bask{
+  transition:0.5s ease-out;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.delet-bask:hover{
+  color: red;
+  transform:rotate(360deg)
+}
+.btncheck{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 .checkout-btn{
-    background-color: #FFA500;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #D2621E;
     border: none;
     outline: none;
-    color:black;
+    color:white;
     padding: 15px 5px;
     cursor: pointer;
     width: 100%;

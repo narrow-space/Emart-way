@@ -109,12 +109,12 @@ const Productdetails = () => {
             onClick={() =>
               dispatch({ type: "ADD_TO_CART", payload: { product, quantity } })
             }
-            className="btn btn me-2"
+            className="btn1 me-2"
           >
             Add to Cart
           </button>
           <Link to="/cart">
-            <button className="btn me-2">Check Your Cart</button>
+            <button className=" btn2 me-2">Check Your Cart</button>
           </Link>
         </div>
       </>

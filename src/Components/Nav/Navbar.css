@@ -4,6 +4,20 @@
   padding: 0;
   
 }
+.logout{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logout-btn{
+  background-color:white;
+  border: none;
+  outline: black;
+  color: black;
+  padding:0px 29px 0px 3px;
+  width:75%;
+  
+}
 
 .NavbarItems {
   background: transparent;
@@ -124,6 +138,9 @@
   .fa-times {
     color: white;
     font-size: 2rem;
+  }
+  .logout-btn{
+    width: 40%;
   }
 
 }
